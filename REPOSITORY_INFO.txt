@@ -1,0 +1,20 @@
+{
+  "repository": "CSA09-RegisterNumber-Assignment1",
+  "student": "Mokshitha Kilari",
+  "tasks": [
+    "Task01",
+    "Task02",
+    "Task03",
+    "Task04",
+    "Task05",
+    "Task06",
+    "Task07",
+    "Task08",
+    "Task09",
+    "Task10",
+    "Task11",
+    "Task12"
+  ],
+  "java_version": "Java 17+",
+  "compiled_locally": true
+}
